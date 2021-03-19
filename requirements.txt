@@ -1,1 +1,1 @@
-subsparser==0.0.3
+subsparser==0.0.6

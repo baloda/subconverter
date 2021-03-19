@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="subconverter", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Dharmveer Baloda",
     author_email="dharmvrbaloda836@gmail.com",
     description="Convert content into different subtitle formats",
